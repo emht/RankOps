@@ -1,0 +1,27 @@
+TODO list:
+==========
+
+This list follows the principle of kanban, so please refer to [kanban]() over here.
+Do not put more than 4 items under WIP.
+
+## Features to be added
+[ ] Read all the github profiles from the form or csv file and put all their github handle in sepatate file to be parsed for the evaluation.
+[ ] Using Github API, gather the data about the number of repositories s/he has.
+[ ] Sub-divide the number of repositories as forked and personal.
+[ ] count the total number of activities s/he had in last few months.
+[ ] 
+[ ] 
+
+## WIP
+[ ] 
+[ ] 
+[ ] 
+[ ] 
+
+## Completed
+[ ] 
+[ ] 
+[ ] 
+[ ] 
+
+
